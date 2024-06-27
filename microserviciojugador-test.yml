@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      database: jugadorDBTest
+      database: jugadorDBTestt
       password: 123456
       uri: mongodb://root:123456@localhost:27017/
       username: root
